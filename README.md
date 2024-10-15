@@ -76,17 +76,11 @@ This is a starter project for building applications using React, HTML, and CSS. 
 
 ## Tabel of Contents
 
-- Prerequisites
 - Installation
 - Project Structure
-- Scripts
 - Conventions
 - Style Guide
-- Formatting
-- Deployment
-- Contributing
-- License
-
+- Sources
 
 ## Installation
 
@@ -128,9 +122,11 @@ The application will be running at http://localhost:3000.
 - Keep components small and reusable whenever possible.
 ### CSS Modules (Optional)
 - For better style isolation, you can use CSS modules. Files should end with .module.css and be imported into the corresponding React components.
-### Style Guide 
+  
+## Style Guide 
 - HTML: Follow semantic HTML standards
 - CSS: Follow semantic CSS standards
 - Follow React best practices to structure your code
 
-## Deployment 
+## Sources
+List all the sources you used here.
