@@ -8,6 +8,7 @@ This is a starter project for building applications using React, HTML, and CSS. 
 - Project Structure
 - Conventions
 - Style Guide
+- Developen
 - Sources
 
 ## Installation
