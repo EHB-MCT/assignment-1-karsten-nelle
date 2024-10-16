@@ -26,7 +26,7 @@ npx create-next-app@latest
 ```
 3. Start development server
 ```bash
-npm run dev
+npm start
 ```
 The application will be running at http://localhost:3000.
 
