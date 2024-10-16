@@ -5,7 +5,7 @@ This is a starter project for building applications using React, HTML, and CSS. 
 ## Tabel of Contents
 
 - Installation
-- - Developen
+- Developen
 - Project Structure
 - Conventions
 - Style Guide
