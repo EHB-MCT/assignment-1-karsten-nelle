@@ -14,8 +14,9 @@ This is a starter project for building applications using React, HTML, and CSS. 
 ## Installation
 
 It is important to have Node.js
-[Download here](https://nodejs.org/en/download/prebuilt-installer)
-
+[Download here Node.js](https://nodejs.org/en/download/prebuilt-installer)
+You will also need Npm
+[Download here Npm](https://www.npmjs.com/)
 1. Clone repository
 ```bash
 git clone https://github.com/username/react-starter-project.git
