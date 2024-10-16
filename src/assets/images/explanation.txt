@@ -1,0 +1,8 @@
+This folder is where you can store images used throughout your project. 
+You can reference these images in your CSS or JSX files by providing the correct 
+file path. For example, in a CSS file, you can use an image as a background like this:
+
+background-image: url(../assets/images/background-image.jpg);
+
+Make sure to adjust the url path based on the location of your CSS or JSX file in 
+relation to the assets/images folder.
