@@ -1,4 +1,15 @@
-/* this acts like regular css */
+/* This file works like regular CSS in terms of formatting, but the key difference 
+   is the ".module.css" naming convention. In React, this is used to create component-specific 
+   styles, allowing you to reuse the same class names across different components without conflict. 
+   
+   Keep in mind that the className structure changes in the JSX file. For example:
+   <h1 className={styles.Title}></h1>
+
+   Here, "styles" refers to the import you define at the top of the JSX file, like this:
+   import styles from "../modules/footer.module.css";
+*/
+
+
 
 .footer {
   background-color: #333;
