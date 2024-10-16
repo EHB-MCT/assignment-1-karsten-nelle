@@ -1,0 +1,10 @@
+This folder is used to store custom fonts that you don’t have immediate access 
+to via a font family name. Once the font files are placed here, you can reference 
+them in your CSS using the @font-face rule:
+@font-face {
+  font-family: "Your Custom Font Name";
+  src: url(../assets/fonts/cascadiaMonoItalic-BoldItalic.otf);
+}
+
+Be sure to adjust the url path depending on the location of your CSS file 
+relative to the fonts folder.
