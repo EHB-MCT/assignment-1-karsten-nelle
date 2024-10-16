@@ -5,10 +5,10 @@ This is a starter project for building applications using React, HTML, and CSS. 
 ## Tabel of Contents
 
 - Installation
+- - Developen
 - Project Structure
 - Conventions
 - Style Guide
-- Developen
 - Sources
 
 ## Installation
@@ -24,6 +24,25 @@ cd react-starter-project
 3. Install dependencies
 ```bash
 npx create-next-app@latest
+```
+3. Start development server
+```bash
+npm start
+```
+The application will be running at http://localhost:3000.
+
+## Developen
+1. Clone repository
+```bash
+git clone https://github.com/username/react-starter-project.git
+```
+2. Navigate to project directory
+```bash
+cd react-starter-project
+```
+3. Install npm
+```bash
+npm install
 ```
 3. Start development server
 ```bash
@@ -51,25 +70,6 @@ The application will be running at http://localhost:3000.
 - Keep components small and reusable whenever possible.
 ### CSS Modules (Optional)
 - For better style isolation, you can use CSS modules. Files should end with .module.css and be imported into the corresponding React components.
-
-## Developen
-1. Clone repository
-```bash
-git clone https://github.com/username/react-starter-project.git
-```
-2. Navigate to project directory
-```bash
-cd react-starter-project
-```
-3. Install npm
-```bash
-npm install
-```
-3. Start development server
-```bash
-npm start
-```
-The application will be running at http://localhost:3000.
 
 ## Style Guide 
 - HTML: Follow semantic HTML standards
