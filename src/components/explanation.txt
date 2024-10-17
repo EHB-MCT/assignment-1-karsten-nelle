@@ -1,0 +1,21 @@
+Different Types of React Components:
+
+JavaScript (JS) in React:
+    This is standard JavaScript used in React to create components. It uses functions like React.createElement to build the UI. For example:
+
+    function MyComponent() {
+        return React.createElement('div', null, 'Hello, world!');
+    }
+
+JSX (JavaScript XML):
+    JSX is a syntax extension that resembles HTML but is written within JavaScript. It simplifies writing UI elements and is compiled into JavaScript behind the scenes. Example:
+
+    function MyComponent() {
+        return <div>Hello, world!</div>;
+    }
+
+Key Points About React Components:
+React components should always start with a capital letter.
+React components must be imported before use in other files.
+Components are functions that return JSX (which looks like HTML).
+You need to export the component so it can be used in other files, like App.js.

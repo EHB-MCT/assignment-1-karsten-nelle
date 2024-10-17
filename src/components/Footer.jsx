@@ -1,4 +1,5 @@
 // React compponents need to start with a capital letter
+// This is example of a react component
 
 import React from "react"; // React components need to be imported
 
