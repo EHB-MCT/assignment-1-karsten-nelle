@@ -47,6 +47,6 @@ function App() {
 
 export default App;
 
-//How Does This Example Work
+// How Does This Example Work
 // Navigation: The navigation uses Link to navigate the user to different routes (/, /about, /contact) without reloading the page.
 // Routing: The Routes component in React Router defines which component should be displayed for each route (Home, About, Contact).
