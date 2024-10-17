@@ -78,7 +78,8 @@ ProjectRoot/
 │   │   └── Footer.module.css    # CSS specific to the Footer component
 │   │
 │   ├── pages/                   # Page-level components, often used for routing
-│   │   └── Home.jsx             # Home page component
+│   │   ├── Home.jsx             # Home page component
+│   │   └── Router.jsx           # Handles routing between different pages
 │   │
 │   ├── scripts/                 # Scripts or utilities (business logic, helpers, etc.)
 │   │   └── service/             # API calls or other service logic can go here
@@ -90,7 +91,6 @@ ProjectRoot/
 │   ├── index.js                 # Entry point of the React application
 │   ├── logo.svg                 # Logo file used in the app
 │   ├── reportWebVitals.js       # Performance monitoring file
-│   ├── Router.jsx               # Handles routing between different pages
 │   └── setupTests.js            # Test setup configuration
 │
 ├── .gitignore                   # Files and folders to ignore in Git version control
