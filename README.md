@@ -10,6 +10,7 @@ This is a starter project for building applications using React, HTML, and CSS. 
 - [Conventions](#Conventions)
 - [Style Guide](#Style-Guide)
 - [Sources](#Sources)
+- [Author](#Author)
 
 ## Installation
 
@@ -119,6 +120,7 @@ ProjectRoot/
 - [React names](https://handsonreact.com/docs/code-organization-conventions)
 - ChatGPT for tree structure
 - [Start project](https://react.dev/learn/start-a-new-react-project)
+- [Linking tabel of contents](https://www.reddit.com/r/github/comments/13vd809/in_a_readmemd_file_is_it_possible_to_have_a_table/)
 - [Courses Front-end](https://canvas.ehb.be/courses/33612)
 
 ## Author
