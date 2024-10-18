@@ -122,6 +122,3 @@ ProjectRoot/
 - [Courses Front-end](https://canvas.ehb.be/courses/33612)
 
 
-
-## Sources
-List all the sources you used here.
