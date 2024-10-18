@@ -4,12 +4,12 @@ This is a starter project for building applications using React, HTML, and CSS. 
 
 ## Tabel of Contents
 
-[Installation](#Installation)
-[Developen](#Developen)
-[Project Structure](#Project Structure)
-[Conventions](#Conventions)
-[Style Guide](#Style Guide)
-[Sources](#Sources)
+- [Installation](#Installation)
+- [Developen](#Developen)
+- [Project Structure](#Project-Structure)
+- [Conventions](#Conventions)
+- [Style Guide](#Style-Guide)
+- [Sources](#Sources)
 
 ## Installation
 
