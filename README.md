@@ -1,15 +1,15 @@
-# Template ReadMe
+# Template React project
 
 This is a starter project for building applications using React, HTML, and CSS. The goal is to provide a structured foundation that includes all the documentation, conventions, and tools needed to start developing a well-organized project right away.
 
 ## Tabel of Contents
 
-- Installation
-- Developen
-- Project Structure
-- Conventions
-- Style Guide
-- Sources
+[Installation](#Installation)
+[Developen](#Developen)
+[Project Structure](#Project Structure)
+[Conventions](#Conventions)
+[Style Guide](#Style Guide)
+[Sources](#Sources)
 
 ## Installation
 
@@ -121,4 +121,5 @@ ProjectRoot/
 - [Start project](https://react.dev/learn/start-a-new-react-project)
 - [Courses Front-end](https://canvas.ehb.be/courses/33612)
 
-
+## Author
+Karsten Verherstraeten & Nelle Favoreel
