@@ -115,6 +115,12 @@ ProjectRoot/
 - CSS: Follow semantic CSS standards
 - Follow React best practices to structure your code
 
+## Sources
+- [React names](https://handsonreact.com/docs/code-organization-conventions)
+- ChatGPT for tree structure
+- [Start project](https://react.dev/learn/start-a-new-react-project)
+- [Courses Front-end](https://canvas.ehb.be/courses/33612)
+
 
 
 ## Sources
